@@ -1,0 +1,115 @@
+{
+  "version": "1.7.0",
+  "sourceRepository": "wacns/Financial-Advisor",
+  "baseRef": "desktop-v1.6.1",
+  "headRef": "v1.7.0",
+  "baseSha": "ef59f9ba542b5febcfa36bbc4cdbcee3db055433",
+  "headSha": "cb4e94e45c451a119878012002199d0f09bf6272",
+  "entries": [
+    {
+      "type": "commit",
+      "sha": "d86b9d006c7571ad7136cd6c4458813626551634",
+      "title": "Document public installers and verified update downloads",
+      "author": "wacns",
+      "url": "https://github.com/wacns/Financial-Advisor/commit/d86b9d006c7571ad7136cd6c4458813626551634"
+    },
+    {
+      "type": "commit",
+      "sha": "2a247bda484eb8b7a19a6ed5955af9329a503a78",
+      "title": "Publish mobile release installers to public downloads repository",
+      "author": "wacns",
+      "url": "https://github.com/wacns/Financial-Advisor/commit/2a247bda484eb8b7a19a6ed5955af9329a503a78"
+    },
+    {
+      "type": "commit",
+      "sha": "2a78c47ecaade4f33ed7a6ca029fd0b6081f78ba",
+      "title": "Read newly created release drafts through release listing",
+      "author": "wacns",
+      "url": "https://github.com/wacns/Financial-Advisor/commit/2a78c47ecaade4f33ed7a6ca029fd0b6081f78ba"
+    },
+    {
+      "type": "commit",
+      "sha": "ab4a0466801d38a168b83e8548546245b10ec450",
+      "title": "Document public mobile downloads and verified publication",
+      "author": "wacns",
+      "url": "https://github.com/wacns/Financial-Advisor/commit/ab4a0466801d38a168b83e8548546245b10ec450"
+    },
+    {
+      "type": "commit",
+      "sha": "193110fea727b1b31d528dd4a0a2d8cad2bf20d9",
+      "title": "Keep mobile and desktop installers together in unified releases",
+      "author": "wacns",
+      "url": "https://github.com/wacns/Financial-Advisor/commit/193110fea727b1b31d528dd4a0a2d8cad2bf20d9"
+    },
+    {
+      "type": "commit",
+      "sha": "cf0281c7fae966368a42d4e0a90f1c67d028f549",
+      "title": "Document unified release and verified consolidation",
+      "author": "wacns",
+      "url": "https://github.com/wacns/Financial-Advisor/commit/cf0281c7fae966368a42d4e0a90f1c67d028f549"
+    },
+    {
+      "type": "commit",
+      "sha": "4ba94421a8be3b77e821d0b6dc8a7a95882353ba",
+      "title": "Publish versioned release changelogs with public history links",
+      "author": "wacns",
+      "url": "https://github.com/wacns/Financial-Advisor/commit/4ba94421a8be3b77e821d0b6dc8a7a95882353ba"
+    },
+    {
+      "type": "commit",
+      "sha": "c0f163b9f84dbeb303856af37fb7aae84ad440ff",
+      "title": "Record verified public changelog publication",
+      "author": "wacns",
+      "url": "https://github.com/wacns/Financial-Advisor/commit/c0f163b9f84dbeb303856af37fb7aae84ad440ff"
+    },
+    {
+      "type": "commit",
+      "sha": "6e3f3f49825f7f3408be267e13c1a4fc6c8bb787",
+      "title": "Generate release changelogs from verified commits and merged pull requests",
+      "author": "wacns",
+      "url": "https://github.com/wacns/Financial-Advisor/commit/6e3f3f49825f7f3408be267e13c1a4fc6c8bb787"
+    },
+    {
+      "type": "commit",
+      "sha": "b31785dab09b62e67b2a2be9f4d99b10647f4e0e",
+      "title": "Record verified commit and PR release history",
+      "author": "wacns",
+      "url": "https://github.com/wacns/Financial-Advisor/commit/b31785dab09b62e67b2a2be9f4d99b10647f4e0e"
+    },
+    {
+      "type": "commit",
+      "sha": "9a3c4b84990bc70d93a8da80a5f356971420ce35",
+      "title": "Add Walletry-inspired organization, commitments and shared accounts",
+      "author": "wacns",
+      "url": "https://github.com/wacns/Financial-Advisor/commit/9a3c4b84990bc70d93a8da80a5f356971420ce35"
+    },
+    {
+      "type": "commit",
+      "sha": "2f620c5b9cd8aed5c82d13a373e92fd6e4ca14b8",
+      "title": "Keep captured currency labels aligned with reviewed accounts",
+      "author": "wacns",
+      "url": "https://github.com/wacns/Financial-Advisor/commit/2f620c5b9cd8aed5c82d13a373e92fd6e4ca14b8"
+    },
+    {
+      "type": "commit",
+      "sha": "6bd64c2f7ec7ff4c246b6a6c6494ca9ec5bff09f",
+      "title": "Document new finance tools and optional assistant setup",
+      "author": "wacns",
+      "url": "https://github.com/wacns/Financial-Advisor/commit/6bd64c2f7ec7ff4c246b6a6c6494ca9ec5bff09f"
+    },
+    {
+      "type": "commit",
+      "sha": "3be71eaa6777a179a98653cce151b72ca3e1ceed",
+      "title": "Fix Xcode Shortcuts source paths and verify native build inputs",
+      "author": "wacns",
+      "url": "https://github.com/wacns/Financial-Advisor/commit/3be71eaa6777a179a98653cce151b72ca3e1ceed"
+    },
+    {
+      "type": "commit",
+      "sha": "cb4e94e45c451a119878012002199d0f09bf6272",
+      "title": "Align plan category defaults with visible and imported choices",
+      "author": "wacns",
+      "url": "https://github.com/wacns/Financial-Advisor/commit/cb4e94e45c451a119878012002199d0f09bf6272"
+    }
+  ]
+}
