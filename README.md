@@ -2,7 +2,7 @@
 
 Public mobile and desktop installers and desktop automatic-update metadata for FinancialAdvisor. Application source code remains in a separate private repository.
 
-Preview downloads include [Android APK/AAB and unsigned iOS IPA v1.6.0](https://github.com/wacns/financial-advisor-releases/releases/tag/v1.6.0), plus [Windows EXE, Linux AppImage/DEB and macOS DMG/ZIP v1.6.1](https://github.com/wacns/financial-advisor-releases/releases/tag/v1.6.1). Verify desktop files with SHA256SUMS.txt and mobile files with MOBILE-SHA256SUMS.txt from the corresponding release.
+All current downloads are in the [unified v1.6.1 release](https://github.com/wacns/financial-advisor-releases/releases/tag/v1.6.1): Android APK/AAB, unsigned iOS IPA, Windows EXE, Linux AppImage/DEB, and macOS DMG/ZIP. Desktop binaries are v1.6.1; mobile binaries retain their actual v1.6.0 filenames and versions. Verify desktop files with SHA256SUMS.txt and mobile files with MOBILE-SHA256SUMS.txt.
 
 The Android preview uses the Expo testing key. The iOS IPA is unsigned and must be signed before installation on a device. Publishing it here does not remove Apple signing requirements.
 
