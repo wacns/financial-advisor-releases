@@ -1,0 +1,31 @@
+{
+  "version": "1.6.1",
+  "sourceRepository": "wacns/Financial-Advisor",
+  "baseRef": "v1.6.0",
+  "headRef": "desktop-v1.6.1",
+  "baseSha": "f9c4edb07041a47b7e4e995f9ddadc36d9724ab9",
+  "headSha": "ef59f9ba542b5febcfa36bbc4cdbcee3db055433",
+  "entries": [
+    {
+      "type": "commit",
+      "sha": "4ec8d16cd3a0be0fc10601f4f5cd2019451a3a78",
+      "title": "Document published cross-platform preview and verified release checksums",
+      "author": "wacns",
+      "url": "https://github.com/wacns/Financial-Advisor/commit/4ec8d16cd3a0be0fc10601f4f5cd2019451a3a78"
+    },
+    {
+      "type": "commit",
+      "sha": "367381ef29ed5c53f6aab06107418d67b6c63fb7",
+      "title": "Add credential-safe update connection diagnostics",
+      "author": "wacns",
+      "url": "https://github.com/wacns/Financial-Advisor/commit/367381ef29ed5c53f6aab06107418d67b6c63fb7"
+    },
+    {
+      "type": "commit",
+      "sha": "ef59f9ba542b5febcfa36bbc4cdbcee3db055433",
+      "title": "Connect desktop updates to public installers repository",
+      "author": "wacns",
+      "url": "https://github.com/wacns/Financial-Advisor/commit/ef59f9ba542b5febcfa36bbc4cdbcee3db055433"
+    }
+  ]
+}
