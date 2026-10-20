@@ -1,0 +1,24 @@
+{
+  "version": "1.7.1",
+  "sourceRepository": "wacns/Financial-Advisor",
+  "baseRef": "v1.7.0",
+  "headRef": "v1.7.1",
+  "baseSha": "cb4e94e45c451a119878012002199d0f09bf6272",
+  "headSha": "3fe90232c8c52006dbdcb49af9771c9956d02589",
+  "entries": [
+    {
+      "type": "commit",
+      "sha": "1e0ede72fdd505c6063a044dd27e1ffd3ff9c039",
+      "title": "Document verified 1.7.0 releases and ChatGPT plan registration",
+      "author": null,
+      "url": "https://github.com/wacns/Financial-Advisor/commit/1e0ede72fdd505c6063a044dd27e1ffd3ff9c039"
+    },
+    {
+      "type": "commit",
+      "sha": "3fe90232c8c52006dbdcb49af9771c9956d02589",
+      "title": "Add assistant funding choices and version-tag release titles",
+      "author": null,
+      "url": "https://github.com/wacns/Financial-Advisor/commit/3fe90232c8c52006dbdcb49af9771c9956d02589"
+    }
+  ]
+}
