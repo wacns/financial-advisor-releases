@@ -1,8 +1,8 @@
-version: 1.7.0
+version: 1.7.1
 files:
-  - url: https://github.com/wacns/financial-advisor-releases/releases/download/v1.7.0/FinancialAdvisor-1.7.0-win-x64.exe
-    sha512: jDGyf3Dltxmi1kd+DKjWiFqvExLkBF618Q7v9ToH7gt0Xo9nUi6kq7H1SZ9dPTHwibiCvhwgHTNNK/1UNUZenA==
-    size: 126836927
-path: https://github.com/wacns/financial-advisor-releases/releases/download/v1.7.0/FinancialAdvisor-1.7.0-win-x64.exe
-sha512: jDGyf3Dltxmi1kd+DKjWiFqvExLkBF618Q7v9ToH7gt0Xo9nUi6kq7H1SZ9dPTHwibiCvhwgHTNNK/1UNUZenA==
-releaseDate: '2026-10-20T08:09:05.841Z'
+  - url: https://github.com/wacns/financial-advisor-releases/releases/download/v1.7.1/FinancialAdvisor-1.7.1-win-x64.exe
+    sha512: sZtqrrfqtNsqZcr04eIbSPRxOiHlUcYf+SegB6rfTgkqe8d9rDvBGKuedXMchfeVyneNa723XJ3t0OhrmirjIA==
+    size: 126838495
+path: https://github.com/wacns/financial-advisor-releases/releases/download/v1.7.1/FinancialAdvisor-1.7.1-win-x64.exe
+sha512: sZtqrrfqtNsqZcr04eIbSPRxOiHlUcYf+SegB6rfTgkqe8d9rDvBGKuedXMchfeVyneNa723XJ3t0OhrmirjIA==
+releaseDate: '2026-10-20T08:55:48.072Z'

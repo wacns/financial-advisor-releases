@@ -1,12 +1,12 @@
-version: 1.7.0
+version: 1.7.1
 files:
-  - url: https://github.com/wacns/financial-advisor-releases/releases/download/v1.7.0/FinancialAdvisor-1.7.0-linux-x86_64.AppImage
-    sha512: zePHjMWYK3oCQhDJj0Qgsn7hoo9NtQuvRsl4YUsdns13Kkgx29l7WcL9V9/zZrD3KNPqSizGx/atHZGeDq8Asw==
-    size: 146040094
-    blockMapSize: 152882
-  - url: https://github.com/wacns/financial-advisor-releases/releases/download/v1.7.0/FinancialAdvisor-1.7.0-linux-amd64.deb
-    sha512: q/ibqwAPIOm4RO9c5ZL9UxDlLQ5F3bqataYE0syign2lj/jr5Azy0JddTAg6VNw/79wDByC87DgO4HdoEUH4fQ==
-    size: 117008640
-path: https://github.com/wacns/financial-advisor-releases/releases/download/v1.7.0/FinancialAdvisor-1.7.0-linux-x86_64.AppImage
-sha512: zePHjMWYK3oCQhDJj0Qgsn7hoo9NtQuvRsl4YUsdns13Kkgx29l7WcL9V9/zZrD3KNPqSizGx/atHZGeDq8Asw==
-releaseDate: '2026-10-20T08:08:50.702Z'
+  - url: https://github.com/wacns/financial-advisor-releases/releases/download/v1.7.1/FinancialAdvisor-1.7.1-linux-x86_64.AppImage
+    sha512: lEXgwMPLC5AgD605tZqvsxt8Rtj7vhNyFvuU0UU2jFTBb0VIZ54X46ebeBrBEZ/T51RIQ4cLQWFR+5HhF0Fw4A==
+    size: 146040213
+    blockMapSize: 153001
+  - url: https://github.com/wacns/financial-advisor-releases/releases/download/v1.7.1/FinancialAdvisor-1.7.1-linux-amd64.deb
+    sha512: ePdmXT9FrxvR9yQiopNlGr0QBOOX2b/Wvafky61bC7DCGVCa/b6ivsVw5Z0zP5V8Pj+cC/sOA24x8CceEN+HyA==
+    size: 117015332
+path: https://github.com/wacns/financial-advisor-releases/releases/download/v1.7.1/FinancialAdvisor-1.7.1-linux-x86_64.AppImage
+sha512: lEXgwMPLC5AgD605tZqvsxt8Rtj7vhNyFvuU0UU2jFTBb0VIZ54X46ebeBrBEZ/T51RIQ4cLQWFR+5HhF0Fw4A==
+releaseDate: '2026-10-20T08:54:25.433Z'

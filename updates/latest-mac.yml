@@ -1,17 +1,17 @@
-version: 1.7.0
+version: 1.7.1
 files:
-  - url: https://github.com/wacns/financial-advisor-releases/releases/download/v1.7.0/FinancialAdvisor-1.7.0-mac-x64.zip
-    sha512: 2D/SsRxgDG44FdZY797OEvrBt7MKIIa7KL6vNVPNsaJKT//Oxukk6HeIiij+z3N92nHjRlrjw7fbRXnO8s5wFw==
-    size: 152432201
-  - url: https://github.com/wacns/financial-advisor-releases/releases/download/v1.7.0/FinancialAdvisor-1.7.0-mac-arm64.zip
-    sha512: kdBeXR9MtRIeKR0BVjhJmm3K0pyR8zbSGX+Ga+7BDv8+Hs6KqygJOhMkpHE+4pFgFOj5nG4URceqSAfWvkaIfg==
-    size: 148624047
-  - url: https://github.com/wacns/financial-advisor-releases/releases/download/v1.7.0/FinancialAdvisor-1.7.0-mac-x64.dmg
-    sha512: E/K6i9jpqZnFSby5clxNIxyxNomxefFG0wWrFmDMTuuHAzC0zuXrY3qmvTs3AJ1cRo57RMtiSWpO+ZeBdnKhVA==
-    size: 152303322
-  - url: https://github.com/wacns/financial-advisor-releases/releases/download/v1.7.0/FinancialAdvisor-1.7.0-mac-arm64.dmg
-    sha512: n9qweCo2nP2OaC88aPCl1dCwZrggWO149wgy2FZZu4OuMPPNd/hosX834RO/MX+CQIkBerNpD5MAWubC8Klm6g==
-    size: 148538064
-path: https://github.com/wacns/financial-advisor-releases/releases/download/v1.7.0/FinancialAdvisor-1.7.0-mac-x64.zip
-sha512: 2D/SsRxgDG44FdZY797OEvrBt7MKIIa7KL6vNVPNsaJKT//Oxukk6HeIiij+z3N92nHjRlrjw7fbRXnO8s5wFw==
-releaseDate: '2026-10-20T08:07:41.474Z'
+  - url: https://github.com/wacns/financial-advisor-releases/releases/download/v1.7.1/FinancialAdvisor-1.7.1-mac-x64.zip
+    sha512: Yo9Z6BeXA7MovR5irS3R/j3ci7ih1BcnCX9PmDPM0ZZsjoCQX8LGKIytnCEqK9H6x/mJomTlZqHgf3ThuEDdOg==
+    size: 152431191
+  - url: https://github.com/wacns/financial-advisor-releases/releases/download/v1.7.1/FinancialAdvisor-1.7.1-mac-arm64.zip
+    sha512: 8n0wieu9RCqS3zocQHezY91ShI0tcVSbUG4QWb2xsm0TldMeel6WG5c1iEMvvJ1+RizC8k9FvhBwHRNDatRjCg==
+    size: 148623037
+  - url: https://github.com/wacns/financial-advisor-releases/releases/download/v1.7.1/FinancialAdvisor-1.7.1-mac-x64.dmg
+    sha512: piFjKlcAFNBjDQnw4VKtxeT9WSFHVyEzZCt27dlGxfeTMsM4a5u6PRpo5CEBH0pWoL3VjFxF6abXYeETUBLwag==
+    size: 152302512
+  - url: https://github.com/wacns/financial-advisor-releases/releases/download/v1.7.1/FinancialAdvisor-1.7.1-mac-arm64.dmg
+    sha512: pdKxcSvT8aaeDuFYEgod6OmolxmZFtrJQnmWYBGEbtlxv8awC7ykq/fdH4EPqm4ojrMfsMHL/aPr5W/js/xtUQ==
+    size: 148534977
+path: https://github.com/wacns/financial-advisor-releases/releases/download/v1.7.1/FinancialAdvisor-1.7.1-mac-x64.zip
+sha512: Yo9Z6BeXA7MovR5irS3R/j3ci7ih1BcnCX9PmDPM0ZZsjoCQX8LGKIytnCEqK9H6x/mJomTlZqHgf3ThuEDdOg==
+releaseDate: '2026-10-20T08:54:10.474Z'
